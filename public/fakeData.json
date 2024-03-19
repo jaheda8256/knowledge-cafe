@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "cover": "https://picsum.photos/300",
+      "title": "Lorem Ipsum",
+      "author": "John Doe",
+      "author_img": "https://randomuser.me/api/portraits/men/1.jpg",
+      "posted_date": "2024-03-19",
+      "reading_time": 10,
+      "hashtags": ["#Lorem", "#Ipsum", "#Dolor"]
+    },
+    {
+      "id": 2,
+      "cover": "https://picsum.photos/300",
+      "title": "Dolor Sit Amet",
+      "author": "Jane Smith",
+      "author_img": "https://randomuser.me/api/portraits/women/2.jpg",
+      "posted_date": "2024-03-18",
+      "reading_time": 8,
+      "hashtags": ["#Dolor", "#SitAmet", "#Consectetur"]
+    },
+    {
+      "id": 3,
+      "cover": "https://picsum.photos/300",
+      "title": "Consectetur Adipiscing",
+      "author": "Alice Johnson",
+      "author_img": "https://randomuser.me/api/portraits/women/3.jpg",
+      "posted_date": "2024-03-17",
+      "reading_time": 12,
+      "hashtags": ["#Consectetur", "#Adipiscing", "#Elit"]
+    },
+    {
+      "id": 4,
+      "cover": "https://picsum.photos/300",
+      "title": "Sed Do Eiusmod",
+      "author": "Michael Brown",
+      "author_img": "https://randomuser.me/api/portraits/men/4.jpg",
+      "posted_date": "2024-03-16",
+      "reading_time": 7,
+      "hashtags": ["#Sed", "#DoEiusmod", "#Tempor"]
+    },
+    {
+      "id": 5,
+      "cover": "https://picsum.photos/300",
+      "title": "Tempor Incididunt",
+      "author": "Emily Wilson",
+      "author_img": "https://randomuser.me/api/portraits/women/5.jpg",
+      "posted_date": "2024-03-15",
+      "reading_time": 9,
+      "hashtags": ["#Tempor", "#Incididunt", "#Labore"]
+    }
+  ]
+  
