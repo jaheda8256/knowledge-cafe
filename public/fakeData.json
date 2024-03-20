@@ -1,7 +1,7 @@
 [
     {
       "id": 1,
-      "cover": "https://picsum.photos/300",
+      "cover": "https://i.ibb.co/wNkc2XS/blog.jpg",
       "title": "Lorem Ipsum",
       "author": "John Doe",
       "author_img": "https://randomuser.me/api/portraits/men/1.jpg",
@@ -11,7 +11,7 @@
     },
     {
       "id": 2,
-      "cover": "https://picsum.photos/300",
+      "cover": "https://i.ibb.co/P4LD1XZ/flat-lay-desk-with-laptop-glasses.jpg",
       "title": "Dolor Sit Amet",
       "author": "Jane Smith",
       "author_img": "https://randomuser.me/api/portraits/women/2.jpg",
@@ -21,7 +21,7 @@
     },
     {
       "id": 3,
-      "cover": "https://picsum.photos/300",
+      "cover": "https://i.ibb.co/J2dfhbh/blogging-gone-viral-camera-concept.jpg",
       "title": "Consectetur Adipiscing",
       "author": "Alice Johnson",
       "author_img": "https://randomuser.me/api/portraits/women/3.jpg",
@@ -31,7 +31,7 @@
     },
     {
       "id": 4,
-      "cover": "https://picsum.photos/300",
+      "cover": "https://i.ibb.co/fpzy6NC/flat-lay-workstation-with-copy-space-laptop.jpg",
       "title": "Sed Do Eiusmod",
       "author": "Michael Brown",
       "author_img": "https://randomuser.me/api/portraits/men/4.jpg",
@@ -41,7 +41,7 @@
     },
     {
       "id": 5,
-      "cover": "https://picsum.photos/300",
+      "cover": "https://i.ibb.co/hmbBMNM/technology-communication-icons-symbols-concept.jpg",
       "title": "Tempor Incididunt",
       "author": "Emily Wilson",
       "author_img": "https://randomuser.me/api/portraits/women/5.jpg",
